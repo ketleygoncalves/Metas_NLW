@@ -23,7 +23,19 @@ Este é um aplicativo de linha de comando (CLI) desenvolvido em Node.js, que per
    ```bash
    git clone https://github.com/ketley/exemplo-gerenciador-metas.git
    cd exemplo-gerenciador-metas
+   ```
+   
+2.Instale as dependências:
+   ```bash
+   npm install
+   ```
 
+3.Execute o projeto:
+   ```bash
+   node app.js
+   ```
+
+## Estrutura do Projeto
   ```bash
 ├── app.js           # Arquivo principal da aplicação
 ├── metas.json       # Arquivo onde as metas são salvas
