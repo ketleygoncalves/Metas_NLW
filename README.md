@@ -40,3 +40,5 @@ Este é um aplicativo de linha de comando (CLI) desenvolvido em Node.js, que per
 ├── app.js           # Arquivo principal da aplicação
 ├── metas.json       # Arquivo onde as metas são salvas
 └── package.json     # Configuração do projeto e dependências
+
+![image](https://github.com/user-attachments/assets/1683de18-8c7c-403a-8ac0-b75bd6b85516)
